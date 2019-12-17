@@ -1,0 +1,14 @@
+name: flutter_opencv_plugin
+description: A Flutter plugin that establishes an interface with the native OpenCV (Open Source Computer Vision) library on Android and iOS.
+version: 0.1.0-dev.1
+homepage: https://github.com/raycardillo/flutter_opencv_plugin
+repository: https://github.com/raycardillo/flutter_opencv_plugin
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+#dependencies:
+#  TBD
+
+dev_dependencies:
+  pedantic: ^1.8.0+1
